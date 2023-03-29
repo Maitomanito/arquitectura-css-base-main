@@ -1,6 +1,6 @@
-# Arquitectura-css
-curso de arquictetura CSS 
-mauricio romero
+# arquitectura-css
+curso de arquictetura CSS de  
+
 
 
 
